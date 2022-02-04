@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelgatoFoodDelivery.Server", "DelgatoFoodDelivery\Server\DelgatoFoodDelivery.Server.csproj", "{D3B15097-DC76-43E2-98D3-43171EB81C21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelgatoFoodDelivery.Server", "DelgatoFoodDelivery\Server\DelgatoFoodDelivery.Server.csproj", "{D3B15097-DC76-43E2-98D3-43171EB81C21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelgatoFoodDelivery.Client", "DelgatoFoodDelivery\Client\DelgatoFoodDelivery.Client.csproj", "{688A73A6-FC69-48C0-AF36-E50FC9558F58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelgatoFoodDelivery.Client", "DelgatoFoodDelivery\Client\DelgatoFoodDelivery.Client.csproj", "{688A73A6-FC69-48C0-AF36-E50FC9558F58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelgatoFoodDelivery.Shared", "DelgatoFoodDelivery\Shared\DelgatoFoodDelivery.Shared.csproj", "{1DCF4BD9-1CBE-4173-A292-7103F413E947}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelgatoFoodDelivery.Shared", "DelgatoFoodDelivery\Shared\DelgatoFoodDelivery.Shared.csproj", "{1DCF4BD9-1CBE-4173-A292-7103F413E947}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

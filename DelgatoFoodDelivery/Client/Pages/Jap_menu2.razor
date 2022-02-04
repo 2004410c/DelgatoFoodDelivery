@@ -1,0 +1,51 @@
+﻿@page "/Jap_menu2"
+
+<h3>Menu for ToriQ</h3>
+
+<h4>
+    <button type="submit"> <img src="http://www.laiandersondesign.com/client/toriq/images/chicken.jpg" height="128" width="192" /></button>
+    <form action="/action_page.php">
+        <label for="Chicken">Choose the quantity:</label>
+        <select name="Chicken" id="chicken">
+            <option value="one">1</option>
+            <option value="two">2</option>
+            <option value="three">3</option>
+            <option value="four">4</option>
+        </select>
+        <br><br>
+    </form>
+
+    <button type="submit"> <img src="http://www.laiandersondesign.com/client/toriq/images/pork.jpg" height="128" width="192" /></button>
+    <form action="/action_page.php">
+        <label for="Pork">Choose the quantity:</label>
+        <select name="Pork" id="pork">
+            <option value="one">1</option>
+            <option value="two">2</option>
+            <option value="three">3</option>
+            <option value="four">4</option>
+        </select>
+        <br><br>
+    </form>
+
+    <button type="submit"> <img src="http://www.laiandersondesign.com/client/toriq/images/skin.jpg" height="128" width="192" /></button>
+    <form action="/action_page.php">
+        <label for="Chicken_Skin">Choose the quantity:</label>
+        <select name="Chicken_Skin" id="chickenskin">
+            <option value="one">1</option>
+            <option value="two">2</option>
+            <option value="three">3</option>
+            <option value="four">4</option>
+        </select>
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <form method="get" action="/Jap_page">
+        <button type="submit">Back to Japanese Cuisine</button>
+    </form>
+
+</h4>
+
+@code {
+
+}
